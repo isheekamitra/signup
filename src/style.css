@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+}
+.form-div{
+    
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    max-height: 500px;
+}
+.hi{
+    min-width: 400px;
+}
